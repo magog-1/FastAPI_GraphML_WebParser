@@ -1,0 +1,7 @@
+curl -X POST http://localhost:8000/parse/parse_website \
+  -H "Content-Type: application/json" \
+  -d '{
+        "url": "https://www.google.com",
+        "max_depth": 3,
+        "format": "graphml"
+      }'
