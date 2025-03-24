@@ -1,0 +1,352 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <graph edgedefault="directed">
+    <node id="https://www.google.com" />
+    <node id="https://www.google.com/imghp?hl=ru&amp;tab=wi" />
+    <node id="https://www.google.com/preferences?hl=ru" />
+    <node id="https://www.google.com/url?q=https://myactivity.google.com/product/search/controls%3Futm_source%3Dgoogle%26utm_medium%3Dpref-page%26hl%3Dru%26authuser%3D0&amp;opi=89978449&amp;sa=U&amp;ved=0ahUKEwiIg-j_saOMAxW9HhAIHdDYK1oQ7JsICAE&amp;usg=AOvVaw2KoOWOTqNNP6Sn0bqrVa22" />
+    <node id="https://www.google.com/url?q=/setting/search/privateresults%3Fhl%3Dru%26authuser%3D0&amp;opi=89978449&amp;sa=U&amp;ved=0ahUKEwiIg-j_saOMAxW9HhAIHdDYK1oQ-vUJCAI&amp;usg=AOvVaw3tZwKJCDQL9bkZlA2bDcY_" />
+    <node id="https://www.google.com/url?q=/safesearch%3Fhl%3Dru%26prev%3Dhttps://www.google.com/preferences%3Fhl%253Dru&amp;opi=89978449&amp;sa=U&amp;ved=0ahUKEwiIg-j_saOMAxW9HhAIHdDYK1oQ1fMKCAM&amp;usg=AOvVaw0TvgdWi3s_yqUjHaQL370m" />
+    <node id="https://www.google.com/url?q=https://support.google.com/websearch/%3Fp%3Dws_results_help%26hl%3Dru%26fg%3D1&amp;opi=89978449&amp;sa=U&amp;ved=0ahUKEwiIg-j_saOMAxW9HhAIHdDYK1oQ8KwCCAg&amp;usg=AOvVaw1QKiRNANyUb5y2OSmZCaoh" />
+    <node id="https://www.google.com/url?q=https://policies.google.com/privacy%3Fhl%3Dru%26fg%3D1&amp;opi=89978449&amp;sa=U&amp;ved=0ahUKEwiIg-j_saOMAxW9HhAIHdDYK1oQ8awCCAk&amp;usg=AOvVaw3dMP6cBy9N4YyijRqj1gch" />
+    <node id="https://www.google.com/url?q=https://policies.google.com/terms%3Fhl%3Dru%26fg%3D1&amp;opi=89978449&amp;sa=U&amp;ved=0ahUKEwiIg-j_saOMAxW9HhAIHdDYK1oQ8qwCCAo&amp;usg=AOvVaw33evRDR7efX-e5GZqcpri1" />
+    <node id="https://www.google.com/advanced_image_search?hl=ru&amp;authuser=0" />
+    <node id="https://www.google.com/webhp?hl=ru&amp;tab=ii" />
+    <node id="https://www.google.com/url?q=https://support.google.com/websearch/%3Fp%3Dws_images_SERP%26hl%3Dru%26fg%3D1&amp;opi=89978449&amp;sa=U&amp;ved=0ahUKEwjRiO__saOMAxWcIBAIHTOrI2EQ8KwCCAI&amp;usg=AOvVaw3PInRKhkc_JmT8-WCHlKrr" />
+    <node id="https://www.google.com/url?q=https://policies.google.com/privacy%3Fhl%3Dru%26fg%3D1&amp;opi=89978449&amp;sa=U&amp;ved=0ahUKEwjRiO__saOMAxWcIBAIHTOrI2EQ8awCCAM&amp;usg=AOvVaw0JOVY1impdv52fDl9822xx" />
+    <node id="https://www.google.com/url?q=https://policies.google.com/terms%3Fhl%3Dru%26fg%3D1&amp;opi=89978449&amp;sa=U&amp;ved=0ahUKEwjRiO__saOMAxWcIBAIHTOrI2EQ8qwCCAQ&amp;usg=AOvVaw0ODoDsRnfG8eTKt9f4rNOV" />
+    <node id="https://www.google.com/intl/ru/ads/" />
+    <node id="https://www.google.com/" />
+    <node id="https://www.google.com/intl/ru/about.html" />
+    <node id="https://www.google.com/intl/ru/accessibility/" />
+    <node id="https://www.google.com/permissions/" />
+    <node id="https://www.google.com/about/appsecurity/" />
+    <node id="https://www.google.com/about/software-principles.html" />
+    <node id="https://www.google.com/about/unwanted-software-policy.html" />
+    <node id="https://www.google.com/about/responsible-supply-chain/" />
+    <node id="https://www.google.com/policies/privacy/" />
+    <node id="https://www.google.com/policies/terms/" />
+    <node id="https://www.google.com/intl/ru/policies/privacy/" />
+    <node id="https://www.google.com/intl/ru/policies/terms/" />
+    <node id="https://www.google.com/advanced_search?hl=ru&amp;authuser=0" />
+    <node id="https://www.google.com/webhp?tab=ww" />
+    <node id="https://www.google.com/setprefdomain?prefdom=RU&amp;prev=https://www.google.ru/&amp;sig=K_70EFwYr7lHLvy-iyvFhnjSPROBQ%3D" />
+    <node id="https://www.google.com/url?q=https://support.google.com/websearch/%3Fp%3Dws_results_help%26hl%3Dru%26fg%3D1&amp;opi=89978449&amp;sa=U&amp;ved=0ahUKEwj07LeAsqOMAxVsDRAIHRy-B10Q8KwCCAI&amp;usg=AOvVaw0fa6RJ1zVZSGrLfArx6ILu" />
+    <node id="https://www.google.com/?tab=uu" />
+    <node id="https://www.google.com/websearch" />
+    <node id="https://www.google.com/websearch/?hl=ru" />
+    <node id="https://www.google.com/websearch/community?hl=ru" />
+    <node id="https://www.google.com/intl/ru/privacy.html" />
+    <node id="https://www.google.com/accounts/TOS" />
+    <node id="https://www.google.com/websearch/announcements/15914790" />
+    <node id="https://www.google.com/websearch/answer/6096136?hl=ru&amp;ref_topic=3378866" />
+    <node id="https://www.google.com/websearch/answer/179386?hl=ru&amp;ref_topic=3378866" />
+    <node id="https://www.google.com/websearch/answer/106230?hl=ru&amp;ref_topic=3378866" />
+    <node id="https://www.google.com/websearch/answer/14260811?hl=ru&amp;ref_topic=3378866" />
+    <node id="https://www.google.com/websearch/answer/54068?hl=ru&amp;ref_topic=3378866" />
+    <node id="https://www.google.com/websearch/answer/2819496?hl=ru&amp;ref_topic=3378866" />
+    <node id="https://www.google.com/websearch/answer/7539151?hl=ru&amp;ref_topic=3378866" />
+    <node id="https://www.google.com/websearch/answer/2940021?hl=ru&amp;ref_topic=3378866" />
+    <node id="https://www.google.com/websearch/answer/14601082?hl=ru&amp;ref_topic=3378866" />
+    <node id="https://www.google.com/websearch/answer/15662709?hl=ru&amp;ref_topic=3378866" />
+    <node id="https://www.google.com/websearch/answer/14901683?hl=ru&amp;ref_topic=3378866" />
+    <node id="https://www.google.com/websearch/troubleshooter/3111061?hl=ru&amp;ref_topic=3285072" />
+    <node id="https://www.google.com/websearch/answer/13650142?hl=ru&amp;ref_topic=3285072" />
+    <node id="https://www.google.com/websearch/answer/12719076?hl=ru&amp;ref_topic=3285072" />
+    <node id="https://www.google.com/websearch/answer/13652412?hl=ru&amp;ref_topic=3285072" />
+    <node id="https://www.google.com/websearch/answer/134479?hl=ru&amp;ref_topic=3036132" />
+    <node id="https://www.google.com/websearch/topic/9255577?hl=ru&amp;ref_topic=3036132" />
+    <node id="https://www.google.com/websearch/answer/142143?hl=ru&amp;ref_topic=3036132" />
+    <node id="https://www.google.com/websearch/answer/181196?hl=ru&amp;ref_topic=3036132" />
+    <node id="https://www.google.com/websearch/answer/1710607?hl=ru&amp;ref_topic=3036132" />
+    <node id="https://www.google.com/websearch/answer/7315336?hl=ru&amp;ref_topic=3036132" />
+    <node id="https://www.google.com/websearch/answer/7568277?hl=ru&amp;ref_topic=3036132" />
+    <node id="https://www.google.com/websearch/topic/9255578?hl=ru&amp;ref_topic=3036132" />
+    <node id="https://www.google.com/websearch/answer/9836344?hl=ru&amp;ref_topic=3036132" />
+    <node id="https://www.google.com/websearch/answer/10563935?hl=ru&amp;ref_topic=3036132" />
+    <node id="https://www.google.com/websearch/answer/11127743?hl=ru&amp;ref_topic=3036132" />
+    <node id="https://www.google.com/websearch/answer/14177408?hl=ru&amp;ref_topic=3036132" />
+    <node id="https://www.google.com/websearch/answer/11216447?hl=ru&amp;ref_topic=3036132" />
+    <node id="https://www.google.com/websearch/answer/12003459?hl=ru&amp;ref_topic=3036132" />
+    <node id="https://www.google.com/websearch/answer/14276978?hl=ru&amp;ref_topic=3036132" />
+    <node id="https://www.google.com/websearch/answer/2390267?hl=ru&amp;ref_topic=1733202" />
+    <node id="https://www.google.com/websearch/topic/4409793?hl=ru&amp;ref_topic=1733202" />
+    <node id="https://www.google.com/websearch/topic/6011752?hl=ru&amp;ref_topic=1733202" />
+    <node id="https://www.google.com/websearch/topic/9749819?hl=ru&amp;ref_topic=1733202" />
+    <node id="https://www.google.com/websearch/answer/6380730?hl=ru&amp;ref_topic=1733202" />
+    <node id="https://www.google.com/websearch/answer/6350733?hl=ru&amp;ref_topic=1733202" />
+    <node id="https://www.google.com/websearch/answer/2649515?hl=ru&amp;ref_topic=1733202" />
+    <node id="https://www.google.com/websearch/answer/7674111?hl=ru&amp;ref_topic=1733202" />
+    <node id="https://www.google.com/websearch/topic/2365089?hl=ru&amp;ref_topic=1733202" />
+    <node id="https://www.google.com/websearch/answer/9817187?hl=ru&amp;ref_topic=1733202" />
+    <node id="https://www.google.com/websearch/answer/14508957?hl=ru&amp;ref_topic=1733202" />
+    <node id="https://www.google.com/websearch/answer/12997189?hl=ru&amp;ref_topic=1733202" />
+    <node id="https://www.google.com/websearch/answer/4628134?hl=ru&amp;ref_topic=3180360" />
+    <node id="https://www.google.com/websearch/answer/112511?hl=ru&amp;ref_topic=3180360" />
+    <node id="https://www.google.com/websearch/answer/1325808?hl=ru&amp;ref_topic=3180360" />
+    <node id="https://www.google.com/websearch/answer/112568?hl=ru&amp;ref_topic=3180360" />
+    <node id="https://www.google.com/websearch/answer/29508?hl=ru&amp;ref_topic=3180360" />
+    <node id="https://www.google.com/websearch/answer/175288?hl=ru&amp;ref_topic=3180360" />
+    <node id="https://www.google.com/websearch/answer/185515?hl=ru&amp;ref_topic=3180360" />
+    <node id="https://www.google.com/websearch/answer/9789430?hl=ru&amp;ref_topic=3180360" />
+    <node id="https://www.google.com/websearch/answer/14516623?hl=ru&amp;ref_topic=3180360" />
+    <node id="https://www.google.com/websearch/answer/510?hl=ru&amp;ref_topic=9255574" />
+    <node id="https://www.google.com/websearch/answer/54068?hl=ru&amp;ref_topic=9255574" />
+    <node id="https://www.google.com/websearch/answer/186669?hl=ru&amp;ref_topic=9255574" />
+    <node id="https://www.google.com/websearch/answer/1710607?hl=ru&amp;ref_topic=9255574" />
+    <node id="https://www.google.com/websearch/answer/6096136?hl=ru&amp;ref_topic=9255574" />
+    <node id="https://www.google.com/websearch/answer/6139018?hl=ru&amp;ref_topic=9255574" />
+    <node id="https://www.google.com/websearch/answer/2917834?hl=ru&amp;ref_topic=9255574" />
+    <node id="https://www.google.com/websearch/answer/10909618?hl=ru&amp;ref_topic=9255574" />
+    <node id="https://www.google.com/websearch/answer/3118687?hl=ru&amp;ref_topic=9255574" />
+    <node id="https://www.google.com/websearch/answer/12410098?hl=ru&amp;ref_topic=9255574" />
+    <node id="https://www.google.com/websearch/answer/12412910?hl=ru&amp;ref_topic=9255574" />
+    <node id="https://www.google.com/websearch/answer/13005558?hl=ru&amp;ref_topic=9255574" />
+    <node id="https://www.google.com/websearch/answer/14202892?hl=ru&amp;ref_topic=9255574" />
+    <node id="https://www.google.com/websearch/answer/14202510?hl=ru&amp;ref_topic=9255574" />
+    <node id="https://www.google.com/websearch/answer/15077462?hl=ru&amp;ref_topic=9255574" />
+    <node id="https://www.google.com/websearch/answer/15087328?hl=ru&amp;ref_topic=9255574" />
+    <node id="https://www.google.com/websearch/answer/15191033?hl=ru&amp;ref_topic=9255574" />
+    <node id="https://www.google.com/websearch/answer/15191143?hl=ru&amp;ref_topic=9255574" />
+    <node id="https://www.google.com/websearch/topic/9153329?hl=ru&amp;ref_topic=3081620" />
+    <node id="https://www.google.com/websearch/answer/3284611?hl=ru&amp;ref_topic=3081620" />
+    <node id="https://www.google.com/websearch/answer/7579076?hl=ru&amp;ref_topic=3081620" />
+    <node id="https://www.google.com/websearch/answer/2466433?hl=ru&amp;ref_topic=3081620" />
+    <node id="https://www.google.com/websearch/answer/9217379?hl=ru&amp;ref_topic=3081620" />
+    <node id="https://www.google.com/websearch/answer/4815696?hl=ru&amp;ref_topic=3081620" />
+    <node id="https://www.google.com/websearch/answer/35890?hl=ru&amp;ref_topic=3081620" />
+    <node id="https://www.google.com/websearch/answer/181196?hl=ru&amp;ref_topic=3081620" />
+    <node id="https://www.google.com/websearch/answer/7674111?hl=ru&amp;ref_topic=3081620" />
+    <node id="https://www.google.com/websearch/answer/9250033?hl=ru&amp;ref_topic=3081620" />
+    <node id="https://www.google.com/websearch/answer/9879130?hl=ru&amp;ref_topic=3081620" />
+    <node id="https://www.google.com/websearch/answer/7554088?hl=ru&amp;ref_topic=3081620" />
+    <node id="https://www.google.com/websearch/answer/11315137?hl=ru&amp;ref_topic=3081620" />
+    <node id="https://www.google.com/websearch/answer/11330383?hl=ru&amp;ref_topic=3081620" />
+    <node id="https://www.google.com/websearch/answer/11459602?hl=ru&amp;ref_topic=3081620" />
+    <node id="https://www.google.com/websearch/answer/13128452?hl=ru&amp;ref_topic=3081620" />
+    <node id="https://www.google.com/websearch/answer/13420782?hl=ru&amp;ref_topic=3081620" />
+    <node id="https://www.google.com/websearch/answer/13485060?hl=ru&amp;ref_topic=3081620" />
+    <node id="https://www.google.com/websearch/answer/13600330?hl=ru&amp;ref_topic=3081620" />
+    <node id="https://www.google.com/websearch/answer/13856826?hl=ru&amp;ref_topic=3081620" />
+    <node id="https://www.google.com/websearch/answer/463?hl=ru&amp;ref_topic=3036131" />
+    <node id="https://www.google.com/websearch/answer/464?hl=ru&amp;ref_topic=3036131" />
+    <node id="https://www.google.com/websearch/answer/9208897?hl=ru&amp;ref_topic=3036131" />
+    <node id="https://www.google.com/websearch/answer/2539428?hl=ru&amp;ref_topic=3036131" />
+    <node id="https://www.google.com/websearch/answer/3333234?hl=ru&amp;ref_topic=3036131" />
+    <node id="https://www.google.com/websearch/answer/6135999?hl=ru&amp;ref_topic=3036131" />
+    <node id="https://www.google.com/websearch/answer/9504726?hl=ru&amp;ref_topic=3036131" />
+    <node id="https://www.google.com/websearch/answer/9507369?hl=ru&amp;ref_topic=3036131" />
+    <node id="https://www.google.com/websearch/answer/9503395?hl=ru&amp;ref_topic=3036131" />
+    <node id="https://www.google.com/websearch/answer/10269376?hl=ru&amp;ref_topic=3036131" />
+    <node id="https://www.google.com/websearch/answer/10633314?hl=ru&amp;ref_topic=3036131" />
+    <node id="https://www.google.com/websearch/answer/13511324?hl=ru&amp;ref_topic=3036131" />
+    <node id="https://www.google.com/websearch/answer/13700064?hl=ru&amp;ref_topic=3036131" />
+    <node id="https://www.google.com/websearch/answer/9232532?hl=ru&amp;ref_topic=3036131" />
+    <node id="https://www.google.com/websearch/answer/14901683?hl=ru&amp;ref_topic=16011146" />
+    <node id="https://www.google.com/websearch/answer/16011537?hl=ru&amp;ref_topic=16011146" />
+    <node id="https://www.google.com/websearch/answer/15662709?hl=ru&amp;ref_topic=16011146" />
+    <node id="https://www.google.com/websearch/answer/13572151?hl=ru&amp;ref_topic=13544225" />
+    <node id="https://www.google.com/websearch/answer/13572013?hl=ru&amp;ref_topic=13544225" />
+    <node id="https://www.google.com/websearch/answer/14184960?hl=ru&amp;ref_topic=13544225" />
+    <node id="https://www.google.com/websearch/answer/13954172?hl=ru&amp;ref_topic=13544225" />
+    <node id="https://www.google.com/url?q=https://policies.google.com/privacy%3Fhl%3Dru%26fg%3D1&amp;opi=89978449&amp;sa=U&amp;ved=0ahUKEwj07LeAsqOMAxVsDRAIHRy-B10Q8awCCAM&amp;usg=AOvVaw0ySkXiwqVcVnL01yf0VO4u" />
+    <node id="https://www.google.com/?hl=ru" />
+    <node id="https://www.google.com/history/optout?utm_source=pp&amp;hl=ru" />
+    <node id="https://www.google.com/landing/2step/?utm_source=pp&amp;hl=ru" />
+    <node id="https://www.google.com/intl/ru/safetycenter/" />
+    <node id="https://www.google.com/policies/privacy/teens/?hl=ru" />
+    <node id="https://www.google.com/about/datacenters/inside/locations?hl=ru" />
+    <node id="https://www.google.com/url?q=https://policies.google.com/terms%3Fhl%3Dru%26fg%3D1&amp;opi=89978449&amp;sa=U&amp;ved=0ahUKEwj07LeAsqOMAxVsDRAIHRy-B10Q8qwCCAQ&amp;usg=AOvVaw2lDC3SZF_5_sNi1W9vcamH" />
+    <node id="https://www.google.com/about/philosophy.html?hl=ru" />
+    <node id="https://www.google.com/?hl=ru&amp;fg=1" />
+    <node id="https://www.google.com/permissions?hl=ru" />
+    <node id="https://www.google.com/tools/feedback?hl=ru" />
+    <node id="https://www.google.com/contact?hl=ru" />
+    <node id="https://www.google.com/setprefdomain?prefdom=RU&amp;prev=https://www.google.ru/&amp;sig=K_OMxLkUGmQ8akDEpdamPilNyinxU%3D" />
+    <edge source="https://www.google.com" target="https://www.google.com/imghp?hl=ru&amp;tab=wi" />
+    <edge source="https://www.google.com" target="https://www.google.com/preferences?hl=ru" />
+    <edge source="https://www.google.com" target="https://www.google.com/advanced_search?hl=ru&amp;authuser=0" />
+    <edge source="https://www.google.com" target="https://www.google.com/intl/ru/ads/" />
+    <edge source="https://www.google.com" target="https://www.google.com/intl/ru/about.html" />
+    <edge source="https://www.google.com" target="https://www.google.com/setprefdomain?prefdom=RU&amp;prev=https://www.google.ru/&amp;sig=K_OMxLkUGmQ8akDEpdamPilNyinxU%3D" />
+    <edge source="https://www.google.com" target="https://www.google.com/intl/ru/policies/privacy/" />
+    <edge source="https://www.google.com" target="https://www.google.com/intl/ru/policies/terms/" />
+    <edge source="https://www.google.com/imghp?hl=ru&amp;tab=wi" target="https://www.google.com/preferences?hl=ru" />
+    <edge source="https://www.google.com/imghp?hl=ru&amp;tab=wi" target="https://www.google.com/advanced_image_search?hl=ru&amp;authuser=0" />
+    <edge source="https://www.google.com/imghp?hl=ru&amp;tab=wi" target="https://www.google.com/intl/ru/ads/" />
+    <edge source="https://www.google.com/imghp?hl=ru&amp;tab=wi" target="https://www.google.com/intl/ru/about.html" />
+    <edge source="https://www.google.com/imghp?hl=ru&amp;tab=wi" target="https://www.google.com/intl/ru/policies/privacy/" />
+    <edge source="https://www.google.com/imghp?hl=ru&amp;tab=wi" target="https://www.google.com/intl/ru/policies/terms/" />
+    <edge source="https://www.google.com/preferences?hl=ru" target="https://www.google.com/url?q=https://myactivity.google.com/product/search/controls%3Futm_source%3Dgoogle%26utm_medium%3Dpref-page%26hl%3Dru%26authuser%3D0&amp;opi=89978449&amp;sa=U&amp;ved=0ahUKEwiIg-j_saOMAxW9HhAIHdDYK1oQ7JsICAE&amp;usg=AOvVaw2KoOWOTqNNP6Sn0bqrVa22" />
+    <edge source="https://www.google.com/preferences?hl=ru" target="https://www.google.com/url?q=/setting/search/privateresults%3Fhl%3Dru%26authuser%3D0&amp;opi=89978449&amp;sa=U&amp;ved=0ahUKEwiIg-j_saOMAxW9HhAIHdDYK1oQ-vUJCAI&amp;usg=AOvVaw3tZwKJCDQL9bkZlA2bDcY_" />
+    <edge source="https://www.google.com/preferences?hl=ru" target="https://www.google.com/url?q=/safesearch%3Fhl%3Dru%26prev%3Dhttps://www.google.com/preferences%3Fhl%253Dru&amp;opi=89978449&amp;sa=U&amp;ved=0ahUKEwiIg-j_saOMAxW9HhAIHdDYK1oQ1fMKCAM&amp;usg=AOvVaw0TvgdWi3s_yqUjHaQL370m" />
+    <edge source="https://www.google.com/preferences?hl=ru" target="https://www.google.com/url?q=https://support.google.com/websearch/%3Fp%3Dws_results_help%26hl%3Dru%26fg%3D1&amp;opi=89978449&amp;sa=U&amp;ved=0ahUKEwiIg-j_saOMAxW9HhAIHdDYK1oQ8KwCCAg&amp;usg=AOvVaw1QKiRNANyUb5y2OSmZCaoh" />
+    <edge source="https://www.google.com/preferences?hl=ru" target="https://www.google.com/url?q=https://policies.google.com/privacy%3Fhl%3Dru%26fg%3D1&amp;opi=89978449&amp;sa=U&amp;ved=0ahUKEwiIg-j_saOMAxW9HhAIHdDYK1oQ8awCCAk&amp;usg=AOvVaw3dMP6cBy9N4YyijRqj1gch" />
+    <edge source="https://www.google.com/preferences?hl=ru" target="https://www.google.com/url?q=https://policies.google.com/terms%3Fhl%3Dru%26fg%3D1&amp;opi=89978449&amp;sa=U&amp;ved=0ahUKEwiIg-j_saOMAxW9HhAIHdDYK1oQ8qwCCAo&amp;usg=AOvVaw33evRDR7efX-e5GZqcpri1" />
+    <edge source="https://www.google.com/advanced_image_search?hl=ru&amp;authuser=0" target="https://www.google.com/webhp?hl=ru&amp;tab=ii" />
+    <edge source="https://www.google.com/advanced_image_search?hl=ru&amp;authuser=0" target="https://www.google.com/preferences?hl=ru" />
+    <edge source="https://www.google.com/advanced_image_search?hl=ru&amp;authuser=0" target="https://www.google.com/url?q=https://support.google.com/websearch/%3Fp%3Dws_images_SERP%26hl%3Dru%26fg%3D1&amp;opi=89978449&amp;sa=U&amp;ved=0ahUKEwjRiO__saOMAxWcIBAIHTOrI2EQ8KwCCAI&amp;usg=AOvVaw3PInRKhkc_JmT8-WCHlKrr" />
+    <edge source="https://www.google.com/advanced_image_search?hl=ru&amp;authuser=0" target="https://www.google.com/url?q=https://policies.google.com/privacy%3Fhl%3Dru%26fg%3D1&amp;opi=89978449&amp;sa=U&amp;ved=0ahUKEwjRiO__saOMAxWcIBAIHTOrI2EQ8awCCAM&amp;usg=AOvVaw0JOVY1impdv52fDl9822xx" />
+    <edge source="https://www.google.com/advanced_image_search?hl=ru&amp;authuser=0" target="https://www.google.com/url?q=https://policies.google.com/terms%3Fhl%3Dru%26fg%3D1&amp;opi=89978449&amp;sa=U&amp;ved=0ahUKEwjRiO__saOMAxWcIBAIHTOrI2EQ8qwCCAQ&amp;usg=AOvVaw0ODoDsRnfG8eTKt9f4rNOV" />
+    <edge source="https://www.google.com/intl/ru/ads/" target="https://www.google.com/" />
+    <edge source="https://www.google.com/intl/ru/about.html" target="https://www.google.com/intl/ru/accessibility/" />
+    <edge source="https://www.google.com/intl/ru/about.html" target="https://www.google.com/permissions/" />
+    <edge source="https://www.google.com/intl/ru/about.html" target="https://www.google.com/about/appsecurity/" />
+    <edge source="https://www.google.com/intl/ru/about.html" target="https://www.google.com/about/software-principles.html" />
+    <edge source="https://www.google.com/intl/ru/about.html" target="https://www.google.com/about/unwanted-software-policy.html" />
+    <edge source="https://www.google.com/intl/ru/about.html" target="https://www.google.com/about/responsible-supply-chain/" />
+    <edge source="https://www.google.com/intl/ru/about.html" target="https://www.google.com/policies/privacy/" />
+    <edge source="https://www.google.com/intl/ru/about.html" target="https://www.google.com/policies/terms/" />
+    <edge source="https://www.google.com/advanced_search?hl=ru&amp;authuser=0" target="https://www.google.com/webhp?tab=ww" />
+    <edge source="https://www.google.com/advanced_search?hl=ru&amp;authuser=0" target="https://www.google.com/preferences?hl=ru" />
+    <edge source="https://www.google.com/advanced_search?hl=ru&amp;authuser=0" target="https://www.google.com/url?q=https://support.google.com/websearch/%3Fp%3Dws_results_help%26hl%3Dru%26fg%3D1&amp;opi=89978449&amp;sa=U&amp;ved=0ahUKEwj07LeAsqOMAxVsDRAIHRy-B10Q8KwCCAI&amp;usg=AOvVaw0fa6RJ1zVZSGrLfArx6ILu" />
+    <edge source="https://www.google.com/advanced_search?hl=ru&amp;authuser=0" target="https://www.google.com/url?q=https://policies.google.com/privacy%3Fhl%3Dru%26fg%3D1&amp;opi=89978449&amp;sa=U&amp;ved=0ahUKEwj07LeAsqOMAxVsDRAIHRy-B10Q8awCCAM&amp;usg=AOvVaw0ySkXiwqVcVnL01yf0VO4u" />
+    <edge source="https://www.google.com/advanced_search?hl=ru&amp;authuser=0" target="https://www.google.com/url?q=https://policies.google.com/terms%3Fhl%3Dru%26fg%3D1&amp;opi=89978449&amp;sa=U&amp;ved=0ahUKEwj07LeAsqOMAxVsDRAIHRy-B10Q8qwCCAQ&amp;usg=AOvVaw2lDC3SZF_5_sNi1W9vcamH" />
+    <edge source="https://www.google.com/webhp?tab=ww" target="https://www.google.com/imghp?hl=ru&amp;tab=wi" />
+    <edge source="https://www.google.com/webhp?tab=ww" target="https://www.google.com/preferences?hl=ru" />
+    <edge source="https://www.google.com/webhp?tab=ww" target="https://www.google.com/advanced_search?hl=ru&amp;authuser=0" />
+    <edge source="https://www.google.com/webhp?tab=ww" target="https://www.google.com/intl/ru/ads/" />
+    <edge source="https://www.google.com/webhp?tab=ww" target="https://www.google.com/intl/ru/about.html" />
+    <edge source="https://www.google.com/webhp?tab=ww" target="https://www.google.com/setprefdomain?prefdom=RU&amp;prev=https://www.google.ru/&amp;sig=K_70EFwYr7lHLvy-iyvFhnjSPROBQ%3D" />
+    <edge source="https://www.google.com/webhp?tab=ww" target="https://www.google.com/intl/ru/policies/privacy/" />
+    <edge source="https://www.google.com/webhp?tab=ww" target="https://www.google.com/intl/ru/policies/terms/" />
+    <edge source="https://www.google.com/url?q=https://support.google.com/websearch/%3Fp%3Dws_results_help%26hl%3Dru%26fg%3D1&amp;opi=89978449&amp;sa=U&amp;ved=0ahUKEwj07LeAsqOMAxVsDRAIHRy-B10Q8KwCCAI&amp;usg=AOvVaw0fa6RJ1zVZSGrLfArx6ILu" target="https://www.google.com/?tab=uu" />
+    <edge source="https://www.google.com/url?q=https://support.google.com/websearch/%3Fp%3Dws_results_help%26hl%3Dru%26fg%3D1&amp;opi=89978449&amp;sa=U&amp;ved=0ahUKEwj07LeAsqOMAxVsDRAIHRy-B10Q8KwCCAI&amp;usg=AOvVaw0fa6RJ1zVZSGrLfArx6ILu" target="https://www.google.com/websearch" />
+    <edge source="https://www.google.com/url?q=https://support.google.com/websearch/%3Fp%3Dws_results_help%26hl%3Dru%26fg%3D1&amp;opi=89978449&amp;sa=U&amp;ved=0ahUKEwj07LeAsqOMAxVsDRAIHRy-B10Q8KwCCAI&amp;usg=AOvVaw0fa6RJ1zVZSGrLfArx6ILu" target="https://www.google.com/" />
+    <edge source="https://www.google.com/url?q=https://support.google.com/websearch/%3Fp%3Dws_results_help%26hl%3Dru%26fg%3D1&amp;opi=89978449&amp;sa=U&amp;ved=0ahUKEwj07LeAsqOMAxVsDRAIHRy-B10Q8KwCCAI&amp;usg=AOvVaw0fa6RJ1zVZSGrLfArx6ILu" target="https://www.google.com/websearch/?hl=ru" />
+    <edge source="https://www.google.com/url?q=https://support.google.com/websearch/%3Fp%3Dws_results_help%26hl%3Dru%26fg%3D1&amp;opi=89978449&amp;sa=U&amp;ved=0ahUKEwj07LeAsqOMAxVsDRAIHRy-B10Q8KwCCAI&amp;usg=AOvVaw0fa6RJ1zVZSGrLfArx6ILu" target="https://www.google.com/websearch/community?hl=ru" />
+    <edge source="https://www.google.com/url?q=https://support.google.com/websearch/%3Fp%3Dws_results_help%26hl%3Dru%26fg%3D1&amp;opi=89978449&amp;sa=U&amp;ved=0ahUKEwj07LeAsqOMAxVsDRAIHRy-B10Q8KwCCAI&amp;usg=AOvVaw0fa6RJ1zVZSGrLfArx6ILu" target="https://www.google.com/intl/ru/privacy.html" />
+    <edge source="https://www.google.com/url?q=https://support.google.com/websearch/%3Fp%3Dws_results_help%26hl%3Dru%26fg%3D1&amp;opi=89978449&amp;sa=U&amp;ved=0ahUKEwj07LeAsqOMAxVsDRAIHRy-B10Q8KwCCAI&amp;usg=AOvVaw0fa6RJ1zVZSGrLfArx6ILu" target="https://www.google.com/accounts/TOS" />
+    <edge source="https://www.google.com/url?q=https://support.google.com/websearch/%3Fp%3Dws_results_help%26hl%3Dru%26fg%3D1&amp;opi=89978449&amp;sa=U&amp;ved=0ahUKEwj07LeAsqOMAxVsDRAIHRy-B10Q8KwCCAI&amp;usg=AOvVaw0fa6RJ1zVZSGrLfArx6ILu" target="https://www.google.com/websearch/announcements/15914790" />
+    <edge source="https://www.google.com/url?q=https://support.google.com/websearch/%3Fp%3Dws_results_help%26hl%3Dru%26fg%3D1&amp;opi=89978449&amp;sa=U&amp;ved=0ahUKEwj07LeAsqOMAxVsDRAIHRy-B10Q8KwCCAI&amp;usg=AOvVaw0fa6RJ1zVZSGrLfArx6ILu" target="https://www.google.com/websearch/answer/6096136?hl=ru&amp;ref_topic=3378866" />
+    <edge source="https://www.google.com/url?q=https://support.google.com/websearch/%3Fp%3Dws_results_help%26hl%3Dru%26fg%3D1&amp;opi=89978449&amp;sa=U&amp;ved=0ahUKEwj07LeAsqOMAxVsDRAIHRy-B10Q8KwCCAI&amp;usg=AOvVaw0fa6RJ1zVZSGrLfArx6ILu" target="https://www.google.com/websearch/answer/179386?hl=ru&amp;ref_topic=3378866" />
+    <edge source="https://www.google.com/url?q=https://support.google.com/websearch/%3Fp%3Dws_results_help%26hl%3Dru%26fg%3D1&amp;opi=89978449&amp;sa=U&amp;ved=0ahUKEwj07LeAsqOMAxVsDRAIHRy-B10Q8KwCCAI&amp;usg=AOvVaw0fa6RJ1zVZSGrLfArx6ILu" target="https://www.google.com/websearch/answer/106230?hl=ru&amp;ref_topic=3378866" />
+    <edge source="https://www.google.com/url?q=https://support.google.com/websearch/%3Fp%3Dws_results_help%26hl%3Dru%26fg%3D1&amp;opi=89978449&amp;sa=U&amp;ved=0ahUKEwj07LeAsqOMAxVsDRAIHRy-B10Q8KwCCAI&amp;usg=AOvVaw0fa6RJ1zVZSGrLfArx6ILu" target="https://www.google.com/websearch/answer/14260811?hl=ru&amp;ref_topic=3378866" />
+    <edge source="https://www.google.com/url?q=https://support.google.com/websearch/%3Fp%3Dws_results_help%26hl%3Dru%26fg%3D1&amp;opi=89978449&amp;sa=U&amp;ved=0ahUKEwj07LeAsqOMAxVsDRAIHRy-B10Q8KwCCAI&amp;usg=AOvVaw0fa6RJ1zVZSGrLfArx6ILu" target="https://www.google.com/websearch/answer/54068?hl=ru&amp;ref_topic=3378866" />
+    <edge source="https://www.google.com/url?q=https://support.google.com/websearch/%3Fp%3Dws_results_help%26hl%3Dru%26fg%3D1&amp;opi=89978449&amp;sa=U&amp;ved=0ahUKEwj07LeAsqOMAxVsDRAIHRy-B10Q8KwCCAI&amp;usg=AOvVaw0fa6RJ1zVZSGrLfArx6ILu" target="https://www.google.com/websearch/answer/2819496?hl=ru&amp;ref_topic=3378866" />
+    <edge source="https://www.google.com/url?q=https://support.google.com/websearch/%3Fp%3Dws_results_help%26hl%3Dru%26fg%3D1&amp;opi=89978449&amp;sa=U&amp;ved=0ahUKEwj07LeAsqOMAxVsDRAIHRy-B10Q8KwCCAI&amp;usg=AOvVaw0fa6RJ1zVZSGrLfArx6ILu" target="https://www.google.com/websearch/answer/7539151?hl=ru&amp;ref_topic=3378866" />
+    <edge source="https://www.google.com/url?q=https://support.google.com/websearch/%3Fp%3Dws_results_help%26hl%3Dru%26fg%3D1&amp;opi=89978449&amp;sa=U&amp;ved=0ahUKEwj07LeAsqOMAxVsDRAIHRy-B10Q8KwCCAI&amp;usg=AOvVaw0fa6RJ1zVZSGrLfArx6ILu" target="https://www.google.com/websearch/answer/2940021?hl=ru&amp;ref_topic=3378866" />
+    <edge source="https://www.google.com/url?q=https://support.google.com/websearch/%3Fp%3Dws_results_help%26hl%3Dru%26fg%3D1&amp;opi=89978449&amp;sa=U&amp;ved=0ahUKEwj07LeAsqOMAxVsDRAIHRy-B10Q8KwCCAI&amp;usg=AOvVaw0fa6RJ1zVZSGrLfArx6ILu" target="https://www.google.com/websearch/answer/14601082?hl=ru&amp;ref_topic=3378866" />
+    <edge source="https://www.google.com/url?q=https://support.google.com/websearch/%3Fp%3Dws_results_help%26hl%3Dru%26fg%3D1&amp;opi=89978449&amp;sa=U&amp;ved=0ahUKEwj07LeAsqOMAxVsDRAIHRy-B10Q8KwCCAI&amp;usg=AOvVaw0fa6RJ1zVZSGrLfArx6ILu" target="https://www.google.com/websearch/answer/15662709?hl=ru&amp;ref_topic=3378866" />
+    <edge source="https://www.google.com/url?q=https://support.google.com/websearch/%3Fp%3Dws_results_help%26hl%3Dru%26fg%3D1&amp;opi=89978449&amp;sa=U&amp;ved=0ahUKEwj07LeAsqOMAxVsDRAIHRy-B10Q8KwCCAI&amp;usg=AOvVaw0fa6RJ1zVZSGrLfArx6ILu" target="https://www.google.com/websearch/answer/14901683?hl=ru&amp;ref_topic=3378866" />
+    <edge source="https://www.google.com/url?q=https://support.google.com/websearch/%3Fp%3Dws_results_help%26hl%3Dru%26fg%3D1&amp;opi=89978449&amp;sa=U&amp;ved=0ahUKEwj07LeAsqOMAxVsDRAIHRy-B10Q8KwCCAI&amp;usg=AOvVaw0fa6RJ1zVZSGrLfArx6ILu" target="https://www.google.com/websearch/troubleshooter/3111061?hl=ru&amp;ref_topic=3285072" />
+    <edge source="https://www.google.com/url?q=https://support.google.com/websearch/%3Fp%3Dws_results_help%26hl%3Dru%26fg%3D1&amp;opi=89978449&amp;sa=U&amp;ved=0ahUKEwj07LeAsqOMAxVsDRAIHRy-B10Q8KwCCAI&amp;usg=AOvVaw0fa6RJ1zVZSGrLfArx6ILu" target="https://www.google.com/websearch/answer/13650142?hl=ru&amp;ref_topic=3285072" />
+    <edge source="https://www.google.com/url?q=https://support.google.com/websearch/%3Fp%3Dws_results_help%26hl%3Dru%26fg%3D1&amp;opi=89978449&amp;sa=U&amp;ved=0ahUKEwj07LeAsqOMAxVsDRAIHRy-B10Q8KwCCAI&amp;usg=AOvVaw0fa6RJ1zVZSGrLfArx6ILu" target="https://www.google.com/websearch/answer/12719076?hl=ru&amp;ref_topic=3285072" />
+    <edge source="https://www.google.com/url?q=https://support.google.com/websearch/%3Fp%3Dws_results_help%26hl%3Dru%26fg%3D1&amp;opi=89978449&amp;sa=U&amp;ved=0ahUKEwj07LeAsqOMAxVsDRAIHRy-B10Q8KwCCAI&amp;usg=AOvVaw0fa6RJ1zVZSGrLfArx6ILu" target="https://www.google.com/websearch/answer/13652412?hl=ru&amp;ref_topic=3285072" />
+    <edge source="https://www.google.com/url?q=https://support.google.com/websearch/%3Fp%3Dws_results_help%26hl%3Dru%26fg%3D1&amp;opi=89978449&amp;sa=U&amp;ved=0ahUKEwj07LeAsqOMAxVsDRAIHRy-B10Q8KwCCAI&amp;usg=AOvVaw0fa6RJ1zVZSGrLfArx6ILu" target="https://www.google.com/websearch/answer/134479?hl=ru&amp;ref_topic=3036132" />
+    <edge source="https://www.google.com/url?q=https://support.google.com/websearch/%3Fp%3Dws_results_help%26hl%3Dru%26fg%3D1&amp;opi=89978449&amp;sa=U&amp;ved=0ahUKEwj07LeAsqOMAxVsDRAIHRy-B10Q8KwCCAI&amp;usg=AOvVaw0fa6RJ1zVZSGrLfArx6ILu" target="https://www.google.com/websearch/topic/9255577?hl=ru&amp;ref_topic=3036132" />
+    <edge source="https://www.google.com/url?q=https://support.google.com/websearch/%3Fp%3Dws_results_help%26hl%3Dru%26fg%3D1&amp;opi=89978449&amp;sa=U&amp;ved=0ahUKEwj07LeAsqOMAxVsDRAIHRy-B10Q8KwCCAI&amp;usg=AOvVaw0fa6RJ1zVZSGrLfArx6ILu" target="https://www.google.com/websearch/answer/142143?hl=ru&amp;ref_topic=3036132" />
+    <edge source="https://www.google.com/url?q=https://support.google.com/websearch/%3Fp%3Dws_results_help%26hl%3Dru%26fg%3D1&amp;opi=89978449&amp;sa=U&amp;ved=0ahUKEwj07LeAsqOMAxVsDRAIHRy-B10Q8KwCCAI&amp;usg=AOvVaw0fa6RJ1zVZSGrLfArx6ILu" target="https://www.google.com/websearch/answer/181196?hl=ru&amp;ref_topic=3036132" />
+    <edge source="https://www.google.com/url?q=https://support.google.com/websearch/%3Fp%3Dws_results_help%26hl%3Dru%26fg%3D1&amp;opi=89978449&amp;sa=U&amp;ved=0ahUKEwj07LeAsqOMAxVsDRAIHRy-B10Q8KwCCAI&amp;usg=AOvVaw0fa6RJ1zVZSGrLfArx6ILu" target="https://www.google.com/websearch/answer/1710607?hl=ru&amp;ref_topic=3036132" />
+    <edge source="https://www.google.com/url?q=https://support.google.com/websearch/%3Fp%3Dws_results_help%26hl%3Dru%26fg%3D1&amp;opi=89978449&amp;sa=U&amp;ved=0ahUKEwj07LeAsqOMAxVsDRAIHRy-B10Q8KwCCAI&amp;usg=AOvVaw0fa6RJ1zVZSGrLfArx6ILu" target="https://www.google.com/websearch/answer/7315336?hl=ru&amp;ref_topic=3036132" />
+    <edge source="https://www.google.com/url?q=https://support.google.com/websearch/%3Fp%3Dws_results_help%26hl%3Dru%26fg%3D1&amp;opi=89978449&amp;sa=U&amp;ved=0ahUKEwj07LeAsqOMAxVsDRAIHRy-B10Q8KwCCAI&amp;usg=AOvVaw0fa6RJ1zVZSGrLfArx6ILu" target="https://www.google.com/websearch/answer/7568277?hl=ru&amp;ref_topic=3036132" />
+    <edge source="https://www.google.com/url?q=https://support.google.com/websearch/%3Fp%3Dws_results_help%26hl%3Dru%26fg%3D1&amp;opi=89978449&amp;sa=U&amp;ved=0ahUKEwj07LeAsqOMAxVsDRAIHRy-B10Q8KwCCAI&amp;usg=AOvVaw0fa6RJ1zVZSGrLfArx6ILu" target="https://www.google.com/websearch/topic/9255578?hl=ru&amp;ref_topic=3036132" />
+    <edge source="https://www.google.com/url?q=https://support.google.com/websearch/%3Fp%3Dws_results_help%26hl%3Dru%26fg%3D1&amp;opi=89978449&amp;sa=U&amp;ved=0ahUKEwj07LeAsqOMAxVsDRAIHRy-B10Q8KwCCAI&amp;usg=AOvVaw0fa6RJ1zVZSGrLfArx6ILu" target="https://www.google.com/websearch/answer/9836344?hl=ru&amp;ref_topic=3036132" />
+    <edge source="https://www.google.com/url?q=https://support.google.com/websearch/%3Fp%3Dws_results_help%26hl%3Dru%26fg%3D1&amp;opi=89978449&amp;sa=U&amp;ved=0ahUKEwj07LeAsqOMAxVsDRAIHRy-B10Q8KwCCAI&amp;usg=AOvVaw0fa6RJ1zVZSGrLfArx6ILu" target="https://www.google.com/websearch/answer/10563935?hl=ru&amp;ref_topic=3036132" />
+    <edge source="https://www.google.com/url?q=https://support.google.com/websearch/%3Fp%3Dws_results_help%26hl%3Dru%26fg%3D1&amp;opi=89978449&amp;sa=U&amp;ved=0ahUKEwj07LeAsqOMAxVsDRAIHRy-B10Q8KwCCAI&amp;usg=AOvVaw0fa6RJ1zVZSGrLfArx6ILu" target="https://www.google.com/websearch/answer/11127743?hl=ru&amp;ref_topic=3036132" />
+    <edge source="https://www.google.com/url?q=https://support.google.com/websearch/%3Fp%3Dws_results_help%26hl%3Dru%26fg%3D1&amp;opi=89978449&amp;sa=U&amp;ved=0ahUKEwj07LeAsqOMAxVsDRAIHRy-B10Q8KwCCAI&amp;usg=AOvVaw0fa6RJ1zVZSGrLfArx6ILu" target="https://www.google.com/websearch/answer/14177408?hl=ru&amp;ref_topic=3036132" />
+    <edge source="https://www.google.com/url?q=https://support.google.com/websearch/%3Fp%3Dws_results_help%26hl%3Dru%26fg%3D1&amp;opi=89978449&amp;sa=U&amp;ved=0ahUKEwj07LeAsqOMAxVsDRAIHRy-B10Q8KwCCAI&amp;usg=AOvVaw0fa6RJ1zVZSGrLfArx6ILu" target="https://www.google.com/websearch/answer/11216447?hl=ru&amp;ref_topic=3036132" />
+    <edge source="https://www.google.com/url?q=https://support.google.com/websearch/%3Fp%3Dws_results_help%26hl%3Dru%26fg%3D1&amp;opi=89978449&amp;sa=U&amp;ved=0ahUKEwj07LeAsqOMAxVsDRAIHRy-B10Q8KwCCAI&amp;usg=AOvVaw0fa6RJ1zVZSGrLfArx6ILu" target="https://www.google.com/websearch/answer/12003459?hl=ru&amp;ref_topic=3036132" />
+    <edge source="https://www.google.com/url?q=https://support.google.com/websearch/%3Fp%3Dws_results_help%26hl%3Dru%26fg%3D1&amp;opi=89978449&amp;sa=U&amp;ved=0ahUKEwj07LeAsqOMAxVsDRAIHRy-B10Q8KwCCAI&amp;usg=AOvVaw0fa6RJ1zVZSGrLfArx6ILu" target="https://www.google.com/websearch/answer/14276978?hl=ru&amp;ref_topic=3036132" />
+    <edge source="https://www.google.com/url?q=https://support.google.com/websearch/%3Fp%3Dws_results_help%26hl%3Dru%26fg%3D1&amp;opi=89978449&amp;sa=U&amp;ved=0ahUKEwj07LeAsqOMAxVsDRAIHRy-B10Q8KwCCAI&amp;usg=AOvVaw0fa6RJ1zVZSGrLfArx6ILu" target="https://www.google.com/websearch/answer/2390267?hl=ru&amp;ref_topic=1733202" />
+    <edge source="https://www.google.com/url?q=https://support.google.com/websearch/%3Fp%3Dws_results_help%26hl%3Dru%26fg%3D1&amp;opi=89978449&amp;sa=U&amp;ved=0ahUKEwj07LeAsqOMAxVsDRAIHRy-B10Q8KwCCAI&amp;usg=AOvVaw0fa6RJ1zVZSGrLfArx6ILu" target="https://www.google.com/websearch/topic/4409793?hl=ru&amp;ref_topic=1733202" />
+    <edge source="https://www.google.com/url?q=https://support.google.com/websearch/%3Fp%3Dws_results_help%26hl%3Dru%26fg%3D1&amp;opi=89978449&amp;sa=U&amp;ved=0ahUKEwj07LeAsqOMAxVsDRAIHRy-B10Q8KwCCAI&amp;usg=AOvVaw0fa6RJ1zVZSGrLfArx6ILu" target="https://www.google.com/websearch/topic/6011752?hl=ru&amp;ref_topic=1733202" />
+    <edge source="https://www.google.com/url?q=https://support.google.com/websearch/%3Fp%3Dws_results_help%26hl%3Dru%26fg%3D1&amp;opi=89978449&amp;sa=U&amp;ved=0ahUKEwj07LeAsqOMAxVsDRAIHRy-B10Q8KwCCAI&amp;usg=AOvVaw0fa6RJ1zVZSGrLfArx6ILu" target="https://www.google.com/websearch/topic/9749819?hl=ru&amp;ref_topic=1733202" />
+    <edge source="https://www.google.com/url?q=https://support.google.com/websearch/%3Fp%3Dws_results_help%26hl%3Dru%26fg%3D1&amp;opi=89978449&amp;sa=U&amp;ved=0ahUKEwj07LeAsqOMAxVsDRAIHRy-B10Q8KwCCAI&amp;usg=AOvVaw0fa6RJ1zVZSGrLfArx6ILu" target="https://www.google.com/websearch/answer/6380730?hl=ru&amp;ref_topic=1733202" />
+    <edge source="https://www.google.com/url?q=https://support.google.com/websearch/%3Fp%3Dws_results_help%26hl%3Dru%26fg%3D1&amp;opi=89978449&amp;sa=U&amp;ved=0ahUKEwj07LeAsqOMAxVsDRAIHRy-B10Q8KwCCAI&amp;usg=AOvVaw0fa6RJ1zVZSGrLfArx6ILu" target="https://www.google.com/websearch/answer/6350733?hl=ru&amp;ref_topic=1733202" />
+    <edge source="https://www.google.com/url?q=https://support.google.com/websearch/%3Fp%3Dws_results_help%26hl%3Dru%26fg%3D1&amp;opi=89978449&amp;sa=U&amp;ved=0ahUKEwj07LeAsqOMAxVsDRAIHRy-B10Q8KwCCAI&amp;usg=AOvVaw0fa6RJ1zVZSGrLfArx6ILu" target="https://www.google.com/websearch/answer/2649515?hl=ru&amp;ref_topic=1733202" />
+    <edge source="https://www.google.com/url?q=https://support.google.com/websearch/%3Fp%3Dws_results_help%26hl%3Dru%26fg%3D1&amp;opi=89978449&amp;sa=U&amp;ved=0ahUKEwj07LeAsqOMAxVsDRAIHRy-B10Q8KwCCAI&amp;usg=AOvVaw0fa6RJ1zVZSGrLfArx6ILu" target="https://www.google.com/websearch/answer/7674111?hl=ru&amp;ref_topic=1733202" />
+    <edge source="https://www.google.com/url?q=https://support.google.com/websearch/%3Fp%3Dws_results_help%26hl%3Dru%26fg%3D1&amp;opi=89978449&amp;sa=U&amp;ved=0ahUKEwj07LeAsqOMAxVsDRAIHRy-B10Q8KwCCAI&amp;usg=AOvVaw0fa6RJ1zVZSGrLfArx6ILu" target="https://www.google.com/websearch/topic/2365089?hl=ru&amp;ref_topic=1733202" />
+    <edge source="https://www.google.com/url?q=https://support.google.com/websearch/%3Fp%3Dws_results_help%26hl%3Dru%26fg%3D1&amp;opi=89978449&amp;sa=U&amp;ved=0ahUKEwj07LeAsqOMAxVsDRAIHRy-B10Q8KwCCAI&amp;usg=AOvVaw0fa6RJ1zVZSGrLfArx6ILu" target="https://www.google.com/websearch/answer/9817187?hl=ru&amp;ref_topic=1733202" />
+    <edge source="https://www.google.com/url?q=https://support.google.com/websearch/%3Fp%3Dws_results_help%26hl%3Dru%26fg%3D1&amp;opi=89978449&amp;sa=U&amp;ved=0ahUKEwj07LeAsqOMAxVsDRAIHRy-B10Q8KwCCAI&amp;usg=AOvVaw0fa6RJ1zVZSGrLfArx6ILu" target="https://www.google.com/websearch/answer/14508957?hl=ru&amp;ref_topic=1733202" />
+    <edge source="https://www.google.com/url?q=https://support.google.com/websearch/%3Fp%3Dws_results_help%26hl%3Dru%26fg%3D1&amp;opi=89978449&amp;sa=U&amp;ved=0ahUKEwj07LeAsqOMAxVsDRAIHRy-B10Q8KwCCAI&amp;usg=AOvVaw0fa6RJ1zVZSGrLfArx6ILu" target="https://www.google.com/websearch/answer/12997189?hl=ru&amp;ref_topic=1733202" />
+    <edge source="https://www.google.com/url?q=https://support.google.com/websearch/%3Fp%3Dws_results_help%26hl%3Dru%26fg%3D1&amp;opi=89978449&amp;sa=U&amp;ved=0ahUKEwj07LeAsqOMAxVsDRAIHRy-B10Q8KwCCAI&amp;usg=AOvVaw0fa6RJ1zVZSGrLfArx6ILu" target="https://www.google.com/websearch/answer/4628134?hl=ru&amp;ref_topic=3180360" />
+    <edge source="https://www.google.com/url?q=https://support.google.com/websearch/%3Fp%3Dws_results_help%26hl%3Dru%26fg%3D1&amp;opi=89978449&amp;sa=U&amp;ved=0ahUKEwj07LeAsqOMAxVsDRAIHRy-B10Q8KwCCAI&amp;usg=AOvVaw0fa6RJ1zVZSGrLfArx6ILu" target="https://www.google.com/websearch/answer/112511?hl=ru&amp;ref_topic=3180360" />
+    <edge source="https://www.google.com/url?q=https://support.google.com/websearch/%3Fp%3Dws_results_help%26hl%3Dru%26fg%3D1&amp;opi=89978449&amp;sa=U&amp;ved=0ahUKEwj07LeAsqOMAxVsDRAIHRy-B10Q8KwCCAI&amp;usg=AOvVaw0fa6RJ1zVZSGrLfArx6ILu" target="https://www.google.com/websearch/answer/1325808?hl=ru&amp;ref_topic=3180360" />
+    <edge source="https://www.google.com/url?q=https://support.google.com/websearch/%3Fp%3Dws_results_help%26hl%3Dru%26fg%3D1&amp;opi=89978449&amp;sa=U&amp;ved=0ahUKEwj07LeAsqOMAxVsDRAIHRy-B10Q8KwCCAI&amp;usg=AOvVaw0fa6RJ1zVZSGrLfArx6ILu" target="https://www.google.com/websearch/answer/112568?hl=ru&amp;ref_topic=3180360" />
+    <edge source="https://www.google.com/url?q=https://support.google.com/websearch/%3Fp%3Dws_results_help%26hl%3Dru%26fg%3D1&amp;opi=89978449&amp;sa=U&amp;ved=0ahUKEwj07LeAsqOMAxVsDRAIHRy-B10Q8KwCCAI&amp;usg=AOvVaw0fa6RJ1zVZSGrLfArx6ILu" target="https://www.google.com/websearch/answer/29508?hl=ru&amp;ref_topic=3180360" />
+    <edge source="https://www.google.com/url?q=https://support.google.com/websearch/%3Fp%3Dws_results_help%26hl%3Dru%26fg%3D1&amp;opi=89978449&amp;sa=U&amp;ved=0ahUKEwj07LeAsqOMAxVsDRAIHRy-B10Q8KwCCAI&amp;usg=AOvVaw0fa6RJ1zVZSGrLfArx6ILu" target="https://www.google.com/websearch/answer/175288?hl=ru&amp;ref_topic=3180360" />
+    <edge source="https://www.google.com/url?q=https://support.google.com/websearch/%3Fp%3Dws_results_help%26hl%3Dru%26fg%3D1&amp;opi=89978449&amp;sa=U&amp;ved=0ahUKEwj07LeAsqOMAxVsDRAIHRy-B10Q8KwCCAI&amp;usg=AOvVaw0fa6RJ1zVZSGrLfArx6ILu" target="https://www.google.com/websearch/answer/185515?hl=ru&amp;ref_topic=3180360" />
+    <edge source="https://www.google.com/url?q=https://support.google.com/websearch/%3Fp%3Dws_results_help%26hl%3Dru%26fg%3D1&amp;opi=89978449&amp;sa=U&amp;ved=0ahUKEwj07LeAsqOMAxVsDRAIHRy-B10Q8KwCCAI&amp;usg=AOvVaw0fa6RJ1zVZSGrLfArx6ILu" target="https://www.google.com/websearch/answer/9789430?hl=ru&amp;ref_topic=3180360" />
+    <edge source="https://www.google.com/url?q=https://support.google.com/websearch/%3Fp%3Dws_results_help%26hl%3Dru%26fg%3D1&amp;opi=89978449&amp;sa=U&amp;ved=0ahUKEwj07LeAsqOMAxVsDRAIHRy-B10Q8KwCCAI&amp;usg=AOvVaw0fa6RJ1zVZSGrLfArx6ILu" target="https://www.google.com/websearch/answer/14516623?hl=ru&amp;ref_topic=3180360" />
+    <edge source="https://www.google.com/url?q=https://support.google.com/websearch/%3Fp%3Dws_results_help%26hl%3Dru%26fg%3D1&amp;opi=89978449&amp;sa=U&amp;ved=0ahUKEwj07LeAsqOMAxVsDRAIHRy-B10Q8KwCCAI&amp;usg=AOvVaw0fa6RJ1zVZSGrLfArx6ILu" target="https://www.google.com/websearch/answer/510?hl=ru&amp;ref_topic=9255574" />
+    <edge source="https://www.google.com/url?q=https://support.google.com/websearch/%3Fp%3Dws_results_help%26hl%3Dru%26fg%3D1&amp;opi=89978449&amp;sa=U&amp;ved=0ahUKEwj07LeAsqOMAxVsDRAIHRy-B10Q8KwCCAI&amp;usg=AOvVaw0fa6RJ1zVZSGrLfArx6ILu" target="https://www.google.com/websearch/answer/54068?hl=ru&amp;ref_topic=9255574" />
+    <edge source="https://www.google.com/url?q=https://support.google.com/websearch/%3Fp%3Dws_results_help%26hl%3Dru%26fg%3D1&amp;opi=89978449&amp;sa=U&amp;ved=0ahUKEwj07LeAsqOMAxVsDRAIHRy-B10Q8KwCCAI&amp;usg=AOvVaw0fa6RJ1zVZSGrLfArx6ILu" target="https://www.google.com/websearch/answer/186669?hl=ru&amp;ref_topic=9255574" />
+    <edge source="https://www.google.com/url?q=https://support.google.com/websearch/%3Fp%3Dws_results_help%26hl%3Dru%26fg%3D1&amp;opi=89978449&amp;sa=U&amp;ved=0ahUKEwj07LeAsqOMAxVsDRAIHRy-B10Q8KwCCAI&amp;usg=AOvVaw0fa6RJ1zVZSGrLfArx6ILu" target="https://www.google.com/websearch/answer/1710607?hl=ru&amp;ref_topic=9255574" />
+    <edge source="https://www.google.com/url?q=https://support.google.com/websearch/%3Fp%3Dws_results_help%26hl%3Dru%26fg%3D1&amp;opi=89978449&amp;sa=U&amp;ved=0ahUKEwj07LeAsqOMAxVsDRAIHRy-B10Q8KwCCAI&amp;usg=AOvVaw0fa6RJ1zVZSGrLfArx6ILu" target="https://www.google.com/websearch/answer/6096136?hl=ru&amp;ref_topic=9255574" />
+    <edge source="https://www.google.com/url?q=https://support.google.com/websearch/%3Fp%3Dws_results_help%26hl%3Dru%26fg%3D1&amp;opi=89978449&amp;sa=U&amp;ved=0ahUKEwj07LeAsqOMAxVsDRAIHRy-B10Q8KwCCAI&amp;usg=AOvVaw0fa6RJ1zVZSGrLfArx6ILu" target="https://www.google.com/websearch/answer/6139018?hl=ru&amp;ref_topic=9255574" />
+    <edge source="https://www.google.com/url?q=https://support.google.com/websearch/%3Fp%3Dws_results_help%26hl%3Dru%26fg%3D1&amp;opi=89978449&amp;sa=U&amp;ved=0ahUKEwj07LeAsqOMAxVsDRAIHRy-B10Q8KwCCAI&amp;usg=AOvVaw0fa6RJ1zVZSGrLfArx6ILu" target="https://www.google.com/websearch/answer/2917834?hl=ru&amp;ref_topic=9255574" />
+    <edge source="https://www.google.com/url?q=https://support.google.com/websearch/%3Fp%3Dws_results_help%26hl%3Dru%26fg%3D1&amp;opi=89978449&amp;sa=U&amp;ved=0ahUKEwj07LeAsqOMAxVsDRAIHRy-B10Q8KwCCAI&amp;usg=AOvVaw0fa6RJ1zVZSGrLfArx6ILu" target="https://www.google.com/websearch/answer/10909618?hl=ru&amp;ref_topic=9255574" />
+    <edge source="https://www.google.com/url?q=https://support.google.com/websearch/%3Fp%3Dws_results_help%26hl%3Dru%26fg%3D1&amp;opi=89978449&amp;sa=U&amp;ved=0ahUKEwj07LeAsqOMAxVsDRAIHRy-B10Q8KwCCAI&amp;usg=AOvVaw0fa6RJ1zVZSGrLfArx6ILu" target="https://www.google.com/websearch/answer/3118687?hl=ru&amp;ref_topic=9255574" />
+    <edge source="https://www.google.com/url?q=https://support.google.com/websearch/%3Fp%3Dws_results_help%26hl%3Dru%26fg%3D1&amp;opi=89978449&amp;sa=U&amp;ved=0ahUKEwj07LeAsqOMAxVsDRAIHRy-B10Q8KwCCAI&amp;usg=AOvVaw0fa6RJ1zVZSGrLfArx6ILu" target="https://www.google.com/websearch/answer/12410098?hl=ru&amp;ref_topic=9255574" />
+    <edge source="https://www.google.com/url?q=https://support.google.com/websearch/%3Fp%3Dws_results_help%26hl%3Dru%26fg%3D1&amp;opi=89978449&amp;sa=U&amp;ved=0ahUKEwj07LeAsqOMAxVsDRAIHRy-B10Q8KwCCAI&amp;usg=AOvVaw0fa6RJ1zVZSGrLfArx6ILu" target="https://www.google.com/websearch/answer/12412910?hl=ru&amp;ref_topic=9255574" />
+    <edge source="https://www.google.com/url?q=https://support.google.com/websearch/%3Fp%3Dws_results_help%26hl%3Dru%26fg%3D1&amp;opi=89978449&amp;sa=U&amp;ved=0ahUKEwj07LeAsqOMAxVsDRAIHRy-B10Q8KwCCAI&amp;usg=AOvVaw0fa6RJ1zVZSGrLfArx6ILu" target="https://www.google.com/websearch/answer/13005558?hl=ru&amp;ref_topic=9255574" />
+    <edge source="https://www.google.com/url?q=https://support.google.com/websearch/%3Fp%3Dws_results_help%26hl%3Dru%26fg%3D1&amp;opi=89978449&amp;sa=U&amp;ved=0ahUKEwj07LeAsqOMAxVsDRAIHRy-B10Q8KwCCAI&amp;usg=AOvVaw0fa6RJ1zVZSGrLfArx6ILu" target="https://www.google.com/websearch/answer/14202892?hl=ru&amp;ref_topic=9255574" />
+    <edge source="https://www.google.com/url?q=https://support.google.com/websearch/%3Fp%3Dws_results_help%26hl%3Dru%26fg%3D1&amp;opi=89978449&amp;sa=U&amp;ved=0ahUKEwj07LeAsqOMAxVsDRAIHRy-B10Q8KwCCAI&amp;usg=AOvVaw0fa6RJ1zVZSGrLfArx6ILu" target="https://www.google.com/websearch/answer/14202510?hl=ru&amp;ref_topic=9255574" />
+    <edge source="https://www.google.com/url?q=https://support.google.com/websearch/%3Fp%3Dws_results_help%26hl%3Dru%26fg%3D1&amp;opi=89978449&amp;sa=U&amp;ved=0ahUKEwj07LeAsqOMAxVsDRAIHRy-B10Q8KwCCAI&amp;usg=AOvVaw0fa6RJ1zVZSGrLfArx6ILu" target="https://www.google.com/websearch/answer/15077462?hl=ru&amp;ref_topic=9255574" />
+    <edge source="https://www.google.com/url?q=https://support.google.com/websearch/%3Fp%3Dws_results_help%26hl%3Dru%26fg%3D1&amp;opi=89978449&amp;sa=U&amp;ved=0ahUKEwj07LeAsqOMAxVsDRAIHRy-B10Q8KwCCAI&amp;usg=AOvVaw0fa6RJ1zVZSGrLfArx6ILu" target="https://www.google.com/websearch/answer/15087328?hl=ru&amp;ref_topic=9255574" />
+    <edge source="https://www.google.com/url?q=https://support.google.com/websearch/%3Fp%3Dws_results_help%26hl%3Dru%26fg%3D1&amp;opi=89978449&amp;sa=U&amp;ved=0ahUKEwj07LeAsqOMAxVsDRAIHRy-B10Q8KwCCAI&amp;usg=AOvVaw0fa6RJ1zVZSGrLfArx6ILu" target="https://www.google.com/websearch/answer/15191033?hl=ru&amp;ref_topic=9255574" />
+    <edge source="https://www.google.com/url?q=https://support.google.com/websearch/%3Fp%3Dws_results_help%26hl%3Dru%26fg%3D1&amp;opi=89978449&amp;sa=U&amp;ved=0ahUKEwj07LeAsqOMAxVsDRAIHRy-B10Q8KwCCAI&amp;usg=AOvVaw0fa6RJ1zVZSGrLfArx6ILu" target="https://www.google.com/websearch/answer/15191143?hl=ru&amp;ref_topic=9255574" />
+    <edge source="https://www.google.com/url?q=https://support.google.com/websearch/%3Fp%3Dws_results_help%26hl%3Dru%26fg%3D1&amp;opi=89978449&amp;sa=U&amp;ved=0ahUKEwj07LeAsqOMAxVsDRAIHRy-B10Q8KwCCAI&amp;usg=AOvVaw0fa6RJ1zVZSGrLfArx6ILu" target="https://www.google.com/websearch/topic/9153329?hl=ru&amp;ref_topic=3081620" />
+    <edge source="https://www.google.com/url?q=https://support.google.com/websearch/%3Fp%3Dws_results_help%26hl%3Dru%26fg%3D1&amp;opi=89978449&amp;sa=U&amp;ved=0ahUKEwj07LeAsqOMAxVsDRAIHRy-B10Q8KwCCAI&amp;usg=AOvVaw0fa6RJ1zVZSGrLfArx6ILu" target="https://www.google.com/websearch/answer/3284611?hl=ru&amp;ref_topic=3081620" />
+    <edge source="https://www.google.com/url?q=https://support.google.com/websearch/%3Fp%3Dws_results_help%26hl%3Dru%26fg%3D1&amp;opi=89978449&amp;sa=U&amp;ved=0ahUKEwj07LeAsqOMAxVsDRAIHRy-B10Q8KwCCAI&amp;usg=AOvVaw0fa6RJ1zVZSGrLfArx6ILu" target="https://www.google.com/websearch/answer/7579076?hl=ru&amp;ref_topic=3081620" />
+    <edge source="https://www.google.com/url?q=https://support.google.com/websearch/%3Fp%3Dws_results_help%26hl%3Dru%26fg%3D1&amp;opi=89978449&amp;sa=U&amp;ved=0ahUKEwj07LeAsqOMAxVsDRAIHRy-B10Q8KwCCAI&amp;usg=AOvVaw0fa6RJ1zVZSGrLfArx6ILu" target="https://www.google.com/websearch/answer/2466433?hl=ru&amp;ref_topic=3081620" />
+    <edge source="https://www.google.com/url?q=https://support.google.com/websearch/%3Fp%3Dws_results_help%26hl%3Dru%26fg%3D1&amp;opi=89978449&amp;sa=U&amp;ved=0ahUKEwj07LeAsqOMAxVsDRAIHRy-B10Q8KwCCAI&amp;usg=AOvVaw0fa6RJ1zVZSGrLfArx6ILu" target="https://www.google.com/websearch/answer/9217379?hl=ru&amp;ref_topic=3081620" />
+    <edge source="https://www.google.com/url?q=https://support.google.com/websearch/%3Fp%3Dws_results_help%26hl%3Dru%26fg%3D1&amp;opi=89978449&amp;sa=U&amp;ved=0ahUKEwj07LeAsqOMAxVsDRAIHRy-B10Q8KwCCAI&amp;usg=AOvVaw0fa6RJ1zVZSGrLfArx6ILu" target="https://www.google.com/websearch/answer/4815696?hl=ru&amp;ref_topic=3081620" />
+    <edge source="https://www.google.com/url?q=https://support.google.com/websearch/%3Fp%3Dws_results_help%26hl%3Dru%26fg%3D1&amp;opi=89978449&amp;sa=U&amp;ved=0ahUKEwj07LeAsqOMAxVsDRAIHRy-B10Q8KwCCAI&amp;usg=AOvVaw0fa6RJ1zVZSGrLfArx6ILu" target="https://www.google.com/websearch/answer/35890?hl=ru&amp;ref_topic=3081620" />
+    <edge source="https://www.google.com/url?q=https://support.google.com/websearch/%3Fp%3Dws_results_help%26hl%3Dru%26fg%3D1&amp;opi=89978449&amp;sa=U&amp;ved=0ahUKEwj07LeAsqOMAxVsDRAIHRy-B10Q8KwCCAI&amp;usg=AOvVaw0fa6RJ1zVZSGrLfArx6ILu" target="https://www.google.com/websearch/answer/181196?hl=ru&amp;ref_topic=3081620" />
+    <edge source="https://www.google.com/url?q=https://support.google.com/websearch/%3Fp%3Dws_results_help%26hl%3Dru%26fg%3D1&amp;opi=89978449&amp;sa=U&amp;ved=0ahUKEwj07LeAsqOMAxVsDRAIHRy-B10Q8KwCCAI&amp;usg=AOvVaw0fa6RJ1zVZSGrLfArx6ILu" target="https://www.google.com/websearch/answer/7674111?hl=ru&amp;ref_topic=3081620" />
+    <edge source="https://www.google.com/url?q=https://support.google.com/websearch/%3Fp%3Dws_results_help%26hl%3Dru%26fg%3D1&amp;opi=89978449&amp;sa=U&amp;ved=0ahUKEwj07LeAsqOMAxVsDRAIHRy-B10Q8KwCCAI&amp;usg=AOvVaw0fa6RJ1zVZSGrLfArx6ILu" target="https://www.google.com/websearch/answer/9250033?hl=ru&amp;ref_topic=3081620" />
+    <edge source="https://www.google.com/url?q=https://support.google.com/websearch/%3Fp%3Dws_results_help%26hl%3Dru%26fg%3D1&amp;opi=89978449&amp;sa=U&amp;ved=0ahUKEwj07LeAsqOMAxVsDRAIHRy-B10Q8KwCCAI&amp;usg=AOvVaw0fa6RJ1zVZSGrLfArx6ILu" target="https://www.google.com/websearch/answer/9879130?hl=ru&amp;ref_topic=3081620" />
+    <edge source="https://www.google.com/url?q=https://support.google.com/websearch/%3Fp%3Dws_results_help%26hl%3Dru%26fg%3D1&amp;opi=89978449&amp;sa=U&amp;ved=0ahUKEwj07LeAsqOMAxVsDRAIHRy-B10Q8KwCCAI&amp;usg=AOvVaw0fa6RJ1zVZSGrLfArx6ILu" target="https://www.google.com/websearch/answer/7554088?hl=ru&amp;ref_topic=3081620" />
+    <edge source="https://www.google.com/url?q=https://support.google.com/websearch/%3Fp%3Dws_results_help%26hl%3Dru%26fg%3D1&amp;opi=89978449&amp;sa=U&amp;ved=0ahUKEwj07LeAsqOMAxVsDRAIHRy-B10Q8KwCCAI&amp;usg=AOvVaw0fa6RJ1zVZSGrLfArx6ILu" target="https://www.google.com/websearch/answer/11315137?hl=ru&amp;ref_topic=3081620" />
+    <edge source="https://www.google.com/url?q=https://support.google.com/websearch/%3Fp%3Dws_results_help%26hl%3Dru%26fg%3D1&amp;opi=89978449&amp;sa=U&amp;ved=0ahUKEwj07LeAsqOMAxVsDRAIHRy-B10Q8KwCCAI&amp;usg=AOvVaw0fa6RJ1zVZSGrLfArx6ILu" target="https://www.google.com/websearch/answer/11330383?hl=ru&amp;ref_topic=3081620" />
+    <edge source="https://www.google.com/url?q=https://support.google.com/websearch/%3Fp%3Dws_results_help%26hl%3Dru%26fg%3D1&amp;opi=89978449&amp;sa=U&amp;ved=0ahUKEwj07LeAsqOMAxVsDRAIHRy-B10Q8KwCCAI&amp;usg=AOvVaw0fa6RJ1zVZSGrLfArx6ILu" target="https://www.google.com/websearch/answer/11459602?hl=ru&amp;ref_topic=3081620" />
+    <edge source="https://www.google.com/url?q=https://support.google.com/websearch/%3Fp%3Dws_results_help%26hl%3Dru%26fg%3D1&amp;opi=89978449&amp;sa=U&amp;ved=0ahUKEwj07LeAsqOMAxVsDRAIHRy-B10Q8KwCCAI&amp;usg=AOvVaw0fa6RJ1zVZSGrLfArx6ILu" target="https://www.google.com/websearch/answer/13128452?hl=ru&amp;ref_topic=3081620" />
+    <edge source="https://www.google.com/url?q=https://support.google.com/websearch/%3Fp%3Dws_results_help%26hl%3Dru%26fg%3D1&amp;opi=89978449&amp;sa=U&amp;ved=0ahUKEwj07LeAsqOMAxVsDRAIHRy-B10Q8KwCCAI&amp;usg=AOvVaw0fa6RJ1zVZSGrLfArx6ILu" target="https://www.google.com/websearch/answer/13420782?hl=ru&amp;ref_topic=3081620" />
+    <edge source="https://www.google.com/url?q=https://support.google.com/websearch/%3Fp%3Dws_results_help%26hl%3Dru%26fg%3D1&amp;opi=89978449&amp;sa=U&amp;ved=0ahUKEwj07LeAsqOMAxVsDRAIHRy-B10Q8KwCCAI&amp;usg=AOvVaw0fa6RJ1zVZSGrLfArx6ILu" target="https://www.google.com/websearch/answer/13485060?hl=ru&amp;ref_topic=3081620" />
+    <edge source="https://www.google.com/url?q=https://support.google.com/websearch/%3Fp%3Dws_results_help%26hl%3Dru%26fg%3D1&amp;opi=89978449&amp;sa=U&amp;ved=0ahUKEwj07LeAsqOMAxVsDRAIHRy-B10Q8KwCCAI&amp;usg=AOvVaw0fa6RJ1zVZSGrLfArx6ILu" target="https://www.google.com/websearch/answer/13600330?hl=ru&amp;ref_topic=3081620" />
+    <edge source="https://www.google.com/url?q=https://support.google.com/websearch/%3Fp%3Dws_results_help%26hl%3Dru%26fg%3D1&amp;opi=89978449&amp;sa=U&amp;ved=0ahUKEwj07LeAsqOMAxVsDRAIHRy-B10Q8KwCCAI&amp;usg=AOvVaw0fa6RJ1zVZSGrLfArx6ILu" target="https://www.google.com/websearch/answer/13856826?hl=ru&amp;ref_topic=3081620" />
+    <edge source="https://www.google.com/url?q=https://support.google.com/websearch/%3Fp%3Dws_results_help%26hl%3Dru%26fg%3D1&amp;opi=89978449&amp;sa=U&amp;ved=0ahUKEwj07LeAsqOMAxVsDRAIHRy-B10Q8KwCCAI&amp;usg=AOvVaw0fa6RJ1zVZSGrLfArx6ILu" target="https://www.google.com/websearch/answer/463?hl=ru&amp;ref_topic=3036131" />
+    <edge source="https://www.google.com/url?q=https://support.google.com/websearch/%3Fp%3Dws_results_help%26hl%3Dru%26fg%3D1&amp;opi=89978449&amp;sa=U&amp;ved=0ahUKEwj07LeAsqOMAxVsDRAIHRy-B10Q8KwCCAI&amp;usg=AOvVaw0fa6RJ1zVZSGrLfArx6ILu" target="https://www.google.com/websearch/answer/464?hl=ru&amp;ref_topic=3036131" />
+    <edge source="https://www.google.com/url?q=https://support.google.com/websearch/%3Fp%3Dws_results_help%26hl%3Dru%26fg%3D1&amp;opi=89978449&amp;sa=U&amp;ved=0ahUKEwj07LeAsqOMAxVsDRAIHRy-B10Q8KwCCAI&amp;usg=AOvVaw0fa6RJ1zVZSGrLfArx6ILu" target="https://www.google.com/websearch/answer/9208897?hl=ru&amp;ref_topic=3036131" />
+    <edge source="https://www.google.com/url?q=https://support.google.com/websearch/%3Fp%3Dws_results_help%26hl%3Dru%26fg%3D1&amp;opi=89978449&amp;sa=U&amp;ved=0ahUKEwj07LeAsqOMAxVsDRAIHRy-B10Q8KwCCAI&amp;usg=AOvVaw0fa6RJ1zVZSGrLfArx6ILu" target="https://www.google.com/websearch/answer/2539428?hl=ru&amp;ref_topic=3036131" />
+    <edge source="https://www.google.com/url?q=https://support.google.com/websearch/%3Fp%3Dws_results_help%26hl%3Dru%26fg%3D1&amp;opi=89978449&amp;sa=U&amp;ved=0ahUKEwj07LeAsqOMAxVsDRAIHRy-B10Q8KwCCAI&amp;usg=AOvVaw0fa6RJ1zVZSGrLfArx6ILu" target="https://www.google.com/websearch/answer/3333234?hl=ru&amp;ref_topic=3036131" />
+    <edge source="https://www.google.com/url?q=https://support.google.com/websearch/%3Fp%3Dws_results_help%26hl%3Dru%26fg%3D1&amp;opi=89978449&amp;sa=U&amp;ved=0ahUKEwj07LeAsqOMAxVsDRAIHRy-B10Q8KwCCAI&amp;usg=AOvVaw0fa6RJ1zVZSGrLfArx6ILu" target="https://www.google.com/websearch/answer/6135999?hl=ru&amp;ref_topic=3036131" />
+    <edge source="https://www.google.com/url?q=https://support.google.com/websearch/%3Fp%3Dws_results_help%26hl%3Dru%26fg%3D1&amp;opi=89978449&amp;sa=U&amp;ved=0ahUKEwj07LeAsqOMAxVsDRAIHRy-B10Q8KwCCAI&amp;usg=AOvVaw0fa6RJ1zVZSGrLfArx6ILu" target="https://www.google.com/websearch/answer/9504726?hl=ru&amp;ref_topic=3036131" />
+    <edge source="https://www.google.com/url?q=https://support.google.com/websearch/%3Fp%3Dws_results_help%26hl%3Dru%26fg%3D1&amp;opi=89978449&amp;sa=U&amp;ved=0ahUKEwj07LeAsqOMAxVsDRAIHRy-B10Q8KwCCAI&amp;usg=AOvVaw0fa6RJ1zVZSGrLfArx6ILu" target="https://www.google.com/websearch/answer/9507369?hl=ru&amp;ref_topic=3036131" />
+    <edge source="https://www.google.com/url?q=https://support.google.com/websearch/%3Fp%3Dws_results_help%26hl%3Dru%26fg%3D1&amp;opi=89978449&amp;sa=U&amp;ved=0ahUKEwj07LeAsqOMAxVsDRAIHRy-B10Q8KwCCAI&amp;usg=AOvVaw0fa6RJ1zVZSGrLfArx6ILu" target="https://www.google.com/websearch/answer/9503395?hl=ru&amp;ref_topic=3036131" />
+    <edge source="https://www.google.com/url?q=https://support.google.com/websearch/%3Fp%3Dws_results_help%26hl%3Dru%26fg%3D1&amp;opi=89978449&amp;sa=U&amp;ved=0ahUKEwj07LeAsqOMAxVsDRAIHRy-B10Q8KwCCAI&amp;usg=AOvVaw0fa6RJ1zVZSGrLfArx6ILu" target="https://www.google.com/websearch/answer/10269376?hl=ru&amp;ref_topic=3036131" />
+    <edge source="https://www.google.com/url?q=https://support.google.com/websearch/%3Fp%3Dws_results_help%26hl%3Dru%26fg%3D1&amp;opi=89978449&amp;sa=U&amp;ved=0ahUKEwj07LeAsqOMAxVsDRAIHRy-B10Q8KwCCAI&amp;usg=AOvVaw0fa6RJ1zVZSGrLfArx6ILu" target="https://www.google.com/websearch/answer/10633314?hl=ru&amp;ref_topic=3036131" />
+    <edge source="https://www.google.com/url?q=https://support.google.com/websearch/%3Fp%3Dws_results_help%26hl%3Dru%26fg%3D1&amp;opi=89978449&amp;sa=U&amp;ved=0ahUKEwj07LeAsqOMAxVsDRAIHRy-B10Q8KwCCAI&amp;usg=AOvVaw0fa6RJ1zVZSGrLfArx6ILu" target="https://www.google.com/websearch/answer/13511324?hl=ru&amp;ref_topic=3036131" />
+    <edge source="https://www.google.com/url?q=https://support.google.com/websearch/%3Fp%3Dws_results_help%26hl%3Dru%26fg%3D1&amp;opi=89978449&amp;sa=U&amp;ved=0ahUKEwj07LeAsqOMAxVsDRAIHRy-B10Q8KwCCAI&amp;usg=AOvVaw0fa6RJ1zVZSGrLfArx6ILu" target="https://www.google.com/websearch/answer/13700064?hl=ru&amp;ref_topic=3036131" />
+    <edge source="https://www.google.com/url?q=https://support.google.com/websearch/%3Fp%3Dws_results_help%26hl%3Dru%26fg%3D1&amp;opi=89978449&amp;sa=U&amp;ved=0ahUKEwj07LeAsqOMAxVsDRAIHRy-B10Q8KwCCAI&amp;usg=AOvVaw0fa6RJ1zVZSGrLfArx6ILu" target="https://www.google.com/websearch/answer/9232532?hl=ru&amp;ref_topic=3036131" />
+    <edge source="https://www.google.com/url?q=https://support.google.com/websearch/%3Fp%3Dws_results_help%26hl%3Dru%26fg%3D1&amp;opi=89978449&amp;sa=U&amp;ved=0ahUKEwj07LeAsqOMAxVsDRAIHRy-B10Q8KwCCAI&amp;usg=AOvVaw0fa6RJ1zVZSGrLfArx6ILu" target="https://www.google.com/websearch/answer/14901683?hl=ru&amp;ref_topic=16011146" />
+    <edge source="https://www.google.com/url?q=https://support.google.com/websearch/%3Fp%3Dws_results_help%26hl%3Dru%26fg%3D1&amp;opi=89978449&amp;sa=U&amp;ved=0ahUKEwj07LeAsqOMAxVsDRAIHRy-B10Q8KwCCAI&amp;usg=AOvVaw0fa6RJ1zVZSGrLfArx6ILu" target="https://www.google.com/websearch/answer/16011537?hl=ru&amp;ref_topic=16011146" />
+    <edge source="https://www.google.com/url?q=https://support.google.com/websearch/%3Fp%3Dws_results_help%26hl%3Dru%26fg%3D1&amp;opi=89978449&amp;sa=U&amp;ved=0ahUKEwj07LeAsqOMAxVsDRAIHRy-B10Q8KwCCAI&amp;usg=AOvVaw0fa6RJ1zVZSGrLfArx6ILu" target="https://www.google.com/websearch/answer/15662709?hl=ru&amp;ref_topic=16011146" />
+    <edge source="https://www.google.com/url?q=https://support.google.com/websearch/%3Fp%3Dws_results_help%26hl%3Dru%26fg%3D1&amp;opi=89978449&amp;sa=U&amp;ved=0ahUKEwj07LeAsqOMAxVsDRAIHRy-B10Q8KwCCAI&amp;usg=AOvVaw0fa6RJ1zVZSGrLfArx6ILu" target="https://www.google.com/websearch/answer/13572151?hl=ru&amp;ref_topic=13544225" />
+    <edge source="https://www.google.com/url?q=https://support.google.com/websearch/%3Fp%3Dws_results_help%26hl%3Dru%26fg%3D1&amp;opi=89978449&amp;sa=U&amp;ved=0ahUKEwj07LeAsqOMAxVsDRAIHRy-B10Q8KwCCAI&amp;usg=AOvVaw0fa6RJ1zVZSGrLfArx6ILu" target="https://www.google.com/websearch/answer/13572013?hl=ru&amp;ref_topic=13544225" />
+    <edge source="https://www.google.com/url?q=https://support.google.com/websearch/%3Fp%3Dws_results_help%26hl%3Dru%26fg%3D1&amp;opi=89978449&amp;sa=U&amp;ved=0ahUKEwj07LeAsqOMAxVsDRAIHRy-B10Q8KwCCAI&amp;usg=AOvVaw0fa6RJ1zVZSGrLfArx6ILu" target="https://www.google.com/websearch/answer/14184960?hl=ru&amp;ref_topic=13544225" />
+    <edge source="https://www.google.com/url?q=https://support.google.com/websearch/%3Fp%3Dws_results_help%26hl%3Dru%26fg%3D1&amp;opi=89978449&amp;sa=U&amp;ved=0ahUKEwj07LeAsqOMAxVsDRAIHRy-B10Q8KwCCAI&amp;usg=AOvVaw0fa6RJ1zVZSGrLfArx6ILu" target="https://www.google.com/websearch/answer/13954172?hl=ru&amp;ref_topic=13544225" />
+    <edge source="https://www.google.com/url?q=https://policies.google.com/privacy%3Fhl%3Dru%26fg%3D1&amp;opi=89978449&amp;sa=U&amp;ved=0ahUKEwj07LeAsqOMAxVsDRAIHRy-B10Q8awCCAM&amp;usg=AOvVaw0ySkXiwqVcVnL01yf0VO4u" target="https://www.google.com/" />
+    <edge source="https://www.google.com/url?q=https://policies.google.com/privacy%3Fhl%3Dru%26fg%3D1&amp;opi=89978449&amp;sa=U&amp;ved=0ahUKEwj07LeAsqOMAxVsDRAIHRy-B10Q8awCCAM&amp;usg=AOvVaw0ySkXiwqVcVnL01yf0VO4u" target="https://www.google.com/?hl=ru" />
+    <edge source="https://www.google.com/url?q=https://policies.google.com/privacy%3Fhl%3Dru%26fg%3D1&amp;opi=89978449&amp;sa=U&amp;ved=0ahUKEwj07LeAsqOMAxVsDRAIHRy-B10Q8awCCAM&amp;usg=AOvVaw0ySkXiwqVcVnL01yf0VO4u" target="https://www.google.com/history/optout?utm_source=pp&amp;hl=ru" />
+    <edge source="https://www.google.com/url?q=https://policies.google.com/privacy%3Fhl%3Dru%26fg%3D1&amp;opi=89978449&amp;sa=U&amp;ved=0ahUKEwj07LeAsqOMAxVsDRAIHRy-B10Q8awCCAM&amp;usg=AOvVaw0ySkXiwqVcVnL01yf0VO4u" target="https://www.google.com/landing/2step/?utm_source=pp&amp;hl=ru" />
+    <edge source="https://www.google.com/url?q=https://policies.google.com/privacy%3Fhl%3Dru%26fg%3D1&amp;opi=89978449&amp;sa=U&amp;ved=0ahUKEwj07LeAsqOMAxVsDRAIHRy-B10Q8awCCAM&amp;usg=AOvVaw0ySkXiwqVcVnL01yf0VO4u" target="https://www.google.com/intl/ru/safetycenter/" />
+    <edge source="https://www.google.com/url?q=https://policies.google.com/privacy%3Fhl%3Dru%26fg%3D1&amp;opi=89978449&amp;sa=U&amp;ved=0ahUKEwj07LeAsqOMAxVsDRAIHRy-B10Q8awCCAM&amp;usg=AOvVaw0ySkXiwqVcVnL01yf0VO4u" target="https://www.google.com/policies/privacy/teens/?hl=ru" />
+    <edge source="https://www.google.com/url?q=https://policies.google.com/privacy%3Fhl%3Dru%26fg%3D1&amp;opi=89978449&amp;sa=U&amp;ved=0ahUKEwj07LeAsqOMAxVsDRAIHRy-B10Q8awCCAM&amp;usg=AOvVaw0ySkXiwqVcVnL01yf0VO4u" target="https://www.google.com/about/datacenters/inside/locations?hl=ru" />
+    <edge source="https://www.google.com/url?q=https://policies.google.com/terms%3Fhl%3Dru%26fg%3D1&amp;opi=89978449&amp;sa=U&amp;ved=0ahUKEwj07LeAsqOMAxVsDRAIHRy-B10Q8qwCCAQ&amp;usg=AOvVaw2lDC3SZF_5_sNi1W9vcamH" target="https://www.google.com/" />
+    <edge source="https://www.google.com/url?q=https://policies.google.com/terms%3Fhl%3Dru%26fg%3D1&amp;opi=89978449&amp;sa=U&amp;ved=0ahUKEwj07LeAsqOMAxVsDRAIHRy-B10Q8qwCCAQ&amp;usg=AOvVaw2lDC3SZF_5_sNi1W9vcamH" target="https://www.google.com/?hl=ru" />
+    <edge source="https://www.google.com/url?q=https://policies.google.com/terms%3Fhl%3Dru%26fg%3D1&amp;opi=89978449&amp;sa=U&amp;ved=0ahUKEwj07LeAsqOMAxVsDRAIHRy-B10Q8qwCCAQ&amp;usg=AOvVaw2lDC3SZF_5_sNi1W9vcamH" target="https://www.google.com/about/philosophy.html?hl=ru" />
+    <edge source="https://www.google.com/url?q=https://policies.google.com/terms%3Fhl%3Dru%26fg%3D1&amp;opi=89978449&amp;sa=U&amp;ved=0ahUKEwj07LeAsqOMAxVsDRAIHRy-B10Q8qwCCAQ&amp;usg=AOvVaw2lDC3SZF_5_sNi1W9vcamH" target="https://www.google.com/?hl=ru&amp;fg=1" />
+    <edge source="https://www.google.com/url?q=https://policies.google.com/terms%3Fhl%3Dru%26fg%3D1&amp;opi=89978449&amp;sa=U&amp;ved=0ahUKEwj07LeAsqOMAxVsDRAIHRy-B10Q8qwCCAQ&amp;usg=AOvVaw2lDC3SZF_5_sNi1W9vcamH" target="https://www.google.com/permissions?hl=ru" />
+    <edge source="https://www.google.com/url?q=https://policies.google.com/terms%3Fhl%3Dru%26fg%3D1&amp;opi=89978449&amp;sa=U&amp;ved=0ahUKEwj07LeAsqOMAxVsDRAIHRy-B10Q8qwCCAQ&amp;usg=AOvVaw2lDC3SZF_5_sNi1W9vcamH" target="https://www.google.com/tools/feedback?hl=ru" />
+    <edge source="https://www.google.com/url?q=https://policies.google.com/terms%3Fhl%3Dru%26fg%3D1&amp;opi=89978449&amp;sa=U&amp;ved=0ahUKEwj07LeAsqOMAxVsDRAIHRy-B10Q8qwCCAQ&amp;usg=AOvVaw2lDC3SZF_5_sNi1W9vcamH" target="https://www.google.com/contact?hl=ru" />
+    <edge source="https://www.google.com/setprefdomain?prefdom=RU&amp;prev=https://www.google.ru/&amp;sig=K_OMxLkUGmQ8akDEpdamPilNyinxU%3D" target="https://www.google.com/preferences?hl=ru" />
+    <edge source="https://www.google.com/setprefdomain?prefdom=RU&amp;prev=https://www.google.ru/&amp;sig=K_OMxLkUGmQ8akDEpdamPilNyinxU%3D" target="https://www.google.com/advanced_search?hl=ru&amp;authuser=0" />
+    <edge source="https://www.google.com/setprefdomain?prefdom=RU&amp;prev=https://www.google.ru/&amp;sig=K_OMxLkUGmQ8akDEpdamPilNyinxU%3D" target="https://www.google.com/intl/ru/ads/" />
+    <edge source="https://www.google.com/setprefdomain?prefdom=RU&amp;prev=https://www.google.ru/&amp;sig=K_OMxLkUGmQ8akDEpdamPilNyinxU%3D" target="https://www.google.com/intl/ru/about.html" />
+    <edge source="https://www.google.com/setprefdomain?prefdom=RU&amp;prev=https://www.google.ru/&amp;sig=K_OMxLkUGmQ8akDEpdamPilNyinxU%3D" target="https://www.google.com/intl/ru/policies/privacy/" />
+    <edge source="https://www.google.com/setprefdomain?prefdom=RU&amp;prev=https://www.google.ru/&amp;sig=K_OMxLkUGmQ8akDEpdamPilNyinxU%3D" target="https://www.google.com/intl/ru/policies/terms/" />
+  </graph>
+</graphml>
