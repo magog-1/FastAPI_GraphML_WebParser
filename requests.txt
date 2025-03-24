@@ -1,6 +1,6 @@
 • Для миграций базы данных с помощью Alembic настройте файл alembic.ini и env.py, указывая путь к models через app/db/base.py.  
 • Запуск приложения: uvicorn main:app  
-• Запуск воркера Celery: celery -A celery_app.celery_app worker --loglevel=info  
+• Запуск воркера Celery: celery -A celery_app.celery_app worker --loglevel=info  (celery -A celery_app.celery_app worker --pool=solo --loglevel=info)
 • Не забудьте установить и запустить Redis для работы Celery.
 
 
