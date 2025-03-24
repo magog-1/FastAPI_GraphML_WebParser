@@ -1,8 +1,7 @@
 import requests
 from bs4 import BeautifulSoup
-from celery import shared_task
 import networkx as nx
-from io import StringIO
+from io import BytesIO
 from urllib.parse import urljoin
 
 def crawl_website(url: str, max_depth: int):
@@ -19,25 +18,25 @@ def crawl_website(url: str, max_depth: int):
             soup = BeautifulSoup(response.text, "html.parser")
             for link in soup.find_all("a", href=True):
                 href = link["href"]
-                # Приведение относительных ссылок к абсолютному виду
+                # Приводим относительные ссылки к абсолютному виду
                 if href.startswith("/"):
                     href = urljoin(current_url, href)
-                # Ограничиваем парсинг внутренними ссылками (начинающимися с базового URL)
+                # Ограничиваем парсинг только внутренними ссылками
                 if not href.startswith(url):
                     continue
                 graph.add_edge(current_url, href)
                 crawl(href, depth + 1)
         except Exception as e:
-            # Логировать ошибки можно здесь
+            # Здесь можно добавить логирование ошибок
             pass
     crawl(url, 0)
     return graph
 
-
 def graph_to_graphml(graph: nx.DiGraph) -> str:
-    output = StringIO()
+    output = BytesIO()
     nx.write_graphml(graph, output)
-    return output.getvalue()
+    # Декодируем бинарные данные в строку
+    return output.getvalue().decode("utf-8")
 
 
 # @shared_task(bind=True)
