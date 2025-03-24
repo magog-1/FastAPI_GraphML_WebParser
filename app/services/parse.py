@@ -33,16 +33,27 @@ def crawl_website(url: str, max_depth: int):
     crawl(url, 0)
     return graph
 
+
 def graph_to_graphml(graph: nx.DiGraph) -> str:
     output = StringIO()
     nx.write_graphml(graph, output)
     return output.getvalue()
 
-@shared_task(bind=True)
-def parse_website_task(self, url: str, max_depth: int, format: str):
-    graph = crawl_website(url, max_depth)
-    result = None
-    if format.lower() == "graphml":
-        result = graph_to_graphml(graph)
-    # Можно добавить поддержку других форматов
-    return result
+
+# @shared_task(bind=True)
+# def parse_website_task(self, url: str, max_depth: int, format: str):
+#     graph = crawl_website(url, max_depth)
+#     result = '-'
+#     if format.lower() == "graphml":
+#         result = graph_to_graphml(graph)
+#     # Можно добавить поддержку других форматов
+#     return result
+
+# @celery_app.task(name="app.services.parse.parse_website_task")
+# def parse_website_task(self, url: str, max_depth: int, format: str):
+#     graph = crawl_website(url, max_depth)
+#     result = '-'
+#     if format.lower() == "graphml":
+#         result = graph_to_graphml(graph)
+#     # Можно добавить поддержку других форматов
+#     return result

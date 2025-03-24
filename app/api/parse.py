@@ -1,7 +1,8 @@
 from fastapi import APIRouter, HTTPException, Query
 from pydantic import BaseModel
-from app.services.parse import parse_website_task
+# from app.services.parse import parse_website_task
 from celery.result import AsyncResult
+from celery_app import parse_website_task
 
 router = APIRouter()
 
@@ -26,6 +27,6 @@ def get_parse_status(task_id: str = Query(...)):
     response = ParseStatusResponse(
         status=task_result.status,
         progress=100 if task_result.status == "SUCCESS" else 0,
-        result=task_result.result if task_result.status == "SUCCESS" else None
+        result=task_result.result if task_result.status == "SUCCESS" else '-'
     )
     return response
