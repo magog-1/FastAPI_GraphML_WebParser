@@ -14,7 +14,7 @@ def parse_website_task(url: str, max_depth: int, format: str = "graphml"):
     result = '-'
     if format.lower() == "graphml":
         result = graph_to_graphml(graph)
-    # Можно добавить поддержку других форматов
+    # Для добавления других форматов
     return result
 
 # # Автоматический поиск задач в модуле "app"
