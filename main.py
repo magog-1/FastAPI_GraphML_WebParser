@@ -5,7 +5,7 @@ from app.db.base import Base
 from app.api import auth, parse
 import uvicorn
 
-app = FastAPI()
+app = FastAPI(openapi_url="/api/v1/openapi.json")
 
 @app.on_event("startup")
 def on_startup():
