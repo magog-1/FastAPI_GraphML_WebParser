@@ -12,4 +12,5 @@
     • Запуск приложения: uvicorn main:app  
     • Запуск воркера Celery: celery -A celery_app.celery_app worker --loglevel=info  (celery -A celery_app.celery_app worker --pool=solo --loglevel=info)
     • Не забудьте установить и запустить Redis для работы Celery.
+    • Документация доступна http://localhost:8000/docs
     • Примеры запросов находятся в requests.txt
